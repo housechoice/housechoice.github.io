@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" >
+       <url>
+              <loc>https://www.easydrivetest.com.au/</loc>
+              <lastmod>2018-09-26</lastmod>
+              <changefreq>weekly</changefreq>
+              <priority>1.0</priority>
+       </url>
+       <url>
+              <loc>
+              https://www.easydrivetest.com.au/How_to_get_australia_driver_license.html
+              </loc>
+              <lastmod>2018-10-20</lastmod>
+              <changefreq>weekly</changefreq>
+              <priority>0.9</priority>
+       </url>
+       <url>
+              <loc>
+              https://www.easydrivetest.com.au/Australia_driver_license_drive_test_critical_mistake_official_guide.html
+              </loc>
+              <lastmod>2018-10-20</lastmod>
+              <changefreq>weekly</changefreq>
+              <priority>0.9</priority>
+       </url>
+       <url>
+              <loc>https://www.easydrivetest.com.au/Australia_driver_license_final_guide.html</loc>
+              <lastmod>2018-12-08</lastmod>
+              <changefreq>weekly</changefreq>
+              <priority>0.9</priority>
+       </url>
+</urlset>
